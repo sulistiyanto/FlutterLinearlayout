@@ -15,10 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-Screenshot Android and IOS
+Screenshot Android
 
 ![Screenshoot Android](https://github.com/sulistiyanto/FlutterLinearlayout/blob/master/Screen%20Shot%202019-01-27%20at%2019.02.49.png)
 
-Screenshot Android and IOS
+Screenshot IOS
 
 ![Screenshoot IOS](https://github.com/sulistiyanto/FlutterLinearlayout/blob/master/Screen%20Shot%202019-01-27%20at%2019.02.45.png)
